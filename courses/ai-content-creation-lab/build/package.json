@@ -1,0 +1,13 @@
+{
+  "name": "ai-content-creation-lab-build",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Build scripts for the AI Content Creation Lab course package (Touch Stone Publishers)",
+  "scripts": {
+    "build": "bash ./build-all.sh"
+  },
+  "dependencies": {
+    "docx": "^9.7.1",
+    "pptxgenjs": "^4.0.1"
+  }
+}
