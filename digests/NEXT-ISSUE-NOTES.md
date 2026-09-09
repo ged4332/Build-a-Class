@@ -2,8 +2,7 @@
 
 Carry these into the next digest that has new releases. Delete each line once used.
 
-- 6 Sep 2026: GPT-6 Astra rollout clarification. OpenAI's page states Astra rolled out on 3 September to a limited set of organizations, is not yet generally available, and will reach all ChatGPT Plus, Pro, Business, and Enterprise users plus the API, Azure, and AWS Bedrock over the coming days. Astra also carries added safety monitoring that can pause or stop a conversation when an agent may have misread instructions. Companion posts to cite: https://openai.com/index/safety-overview-gpt-6-astra/ and https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/ and https://openai.com/index/pacing-model-development-cyber-capabilities/
-- Meta Connect 2026 runs 23 to 24 September. Expect Meta AI and Muse announcements that week. https://www.meta.com/connect/
-- 7 Sep 2026: Correction to the 3 September issue. xAI's docs list Grok 4.6 API pricing as $2 input / $0.50 cached input / $6 output per million tokens below 200k prompt tokens, and $4 / $1 / $12 above 200k. The first issue gave only the $2/$6 base rate. Every xAI API response now also returns a cost_in_usd_ticks field in the usage object across chat, Responses, image, video, and streaming; the release-notes page does not state the date. https://docs.x.ai/developers/release-notes
-- 7 Sep 2026: Context, not releases. xAI posted "Designing Grok Bot for a world of persistent agents" on 3 September (https://x.ai/news/designing-grok-bot) and a 4 September case study where Grok Bot was given vendor spend, contract, and usage data and found more than $100,000 in direct savings. Relevant to the Grok Bot pilot suggestion in the 3 September issue.
-- OpenAI DevDay 2026 is 29 September at Fort Mason, San Francisco. Applications are closed; the keynote livestream is free. Expect API and Codex announcements that day. https://openai.com/index/devday-2026/
+- Meta Connect 2026 runs 23 to 24 September. Expect Meta AI, Muse, and glasses announcements that week. https://www.meta.com/connect/
+- OpenAI DevDay 2026 is 29 September at Fort Mason, San Francisco. Keynote livestream is free. Expect API and Codex announcements. https://openai.com/index/devday-2026/
+- Watch for GPT-6 Astra reaching general availability on ChatGPT Plus/Pro/Business/Enterprise and the API; OpenAI said "coming days" from 3 September. Report the date when the release notes show it.
+- Watch for Meta Muse subscription plan pricing; the 8 September announcement did not state prices.
